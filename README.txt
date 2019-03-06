@@ -1,1 +1,1 @@
-This project is for my assignment in OpenClassrooms - Create web page layouts with CSS course | Activity: Create a set of playing cards with Flexbox
+This project will show you how to use Flexbox CSS by creating a set of playing cards
